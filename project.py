@@ -1,3 +1,4 @@
+#CODE FOR SFD AND BMD FOR SIMPLY SUPPORTED BEAM
 import numpy as np
 import matplotlib.pyplot as plt
 print("1. For point load at mid span")
